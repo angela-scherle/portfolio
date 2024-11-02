@@ -1,0 +1,365 @@
+
+
+@font-face {
+    font-family: "Josefin-Sans";
+    src:url("../fonts/JosefinSans-Light.ttf") format(truetype);
+    font-weight: lighter;
+  }
+  @font-face {
+    font-family: "Josefin-Sans";
+    src: url("../fonts/JosefinSans-Regular.ttf") format(truetype);
+    font-weight: normal;
+  }
+  @font-face {
+    font-family: "Josefin-Sans";
+    src: url("../fonts/JosefinSans-Bold.ttf") format(truetype);
+    font-weight: bold;
+  }
+
+  #root{
+    background-color: #bbbbbb;
+    z-index: -100;
+  }
+
+/*.myHeader{
+    position: relative;
+
+    width: 100vw;
+    height: 90vh;
+    font-family: "Bold";
+    padding-left: 15vw;
+    padding-right: 15vw;
+    display: flex;
+    align-items: center;
+    background-color: aqua;
+}
+
+.header-text{
+    font-family: "Josefin-Sans", sans-serif;
+    font-weight: normal;
+    float: left;
+    width: 50vw;
+
+    background-color: blanchedalmond;
+}
+.myName {
+    font-family: "Josefin-Sans", sans-serif;
+    font-weight: bold;
+    color:crimson;
+    font-size: 8vw;
+    min-width: 600px;
+}
+
+.myPhoto {
+    width: 30vw;
+    float: left;
+    min-width: 300px;
+ 
+}*/
+
+/*header*/
+.parallax-container {
+  position: relative;
+  height: 100vh;
+  overflow: visible;
+}
+
+.parallax-layer {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+
+.parallax-layer img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  pointer-events: none;
+}
+
+.layer-0 {
+  z-index: 0;
+}
+
+.layer-1 {
+  z-index: 1;
+}
+
+.layer-2 {
+  z-index: 2;
+}
+
+.layer-3 {
+  z-index: 3;
+}
+
+.layer-4 {
+  z-index: 4;
+}
+
+/*.header-content {
+  position: relative;
+  z-index: 10;
+  text-align: center;
+  padding-top: 20vh;
+}
+
+
+.header-text {
+  color: white;
+  text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.8);
+}
+
+.myName {
+  font-size: 3rem;
+  font-weight: bold;
+}*/
+
+.dyn-text-container {
+  position: relative;
+  z-index: 10;
+  text-align: center;
+  padding-top: 30vh;
+}
+
+.header-text {
+  color: white;
+  text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.8);
+  z-index: 10;
+}
+
+.myName {
+  font-size: 5vw;
+  margin-bottom: 0.5em;
+}
+
+.typingText {
+  font-size: 3vw;
+  border-right: 2px solid black;
+  white-space: nowrap;
+  overflow: hidden;
+  animation: blinkCursor 0.7s steps(1) infinite;
+}
+
+@keyframes blinkCursor {
+  0%, 50% {
+    border-color: transparent;
+  }
+  51%, 100% {
+    border-color: black;
+  }
+}
+
+
+
+
+/*body*/
+
+.body{
+    height: fit-content;
+    float: left;
+    width: 100%;
+    background-color: transparent;
+    background: none;
+    z-index: 10;
+    padding-top: 10vh;
+    
+}
+
+
+
+/*popup*/
+
+body.scroll-blocker {
+    overflow-y: hidden;
+}
+
+.popup, .overlay {
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: fixed;
+    z-index: 100;
+
+}
+
+.overlay {
+    background: rgba(49,49,49,0.8);
+}
+.popup-container {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -40%);
+    line-height: 1.4;
+    
+    padding: 14px;
+    border-radius: 3px;
+    width: 100vw;
+    min-width: 300px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+
+    z-index: 101;
+}
+
+.popup-button {
+    float: left;
+}
+
+.popup-content {
+    position: relative;
+    background:rgb(3, 8, 12);
+    height: 98%;
+    width: 100%;
+    padding: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.popup-image{
+    height: 100%;
+    width: 80%;
+    float: left;
+    object-fit: contain;
+    background-color: coral;
+}
+.popup-text {
+    float: left;
+    height: 100%;
+    width: 20%;
+    padding: 1%;
+    background-color: aqua;
+}
+
+.close-popup {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 5px 7px;
+}
+
+
+/*---------------------------------------------------*/
+/*main content*/
+
+
+.grid-container{
+    display: grid;
+    width: 90%;
+    background-color: transparent;
+    background: none;
+    z-index: 11;
+
+    /*padding-left: 15vw;*/
+    padding-right: 10vw;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-auto-rows: 19vw;
+    gap: 1vw;
+    grid-auto-flow: dense;
+    float: left;
+}
+/*To do this, add the property grid-auto-flow with a value of dense to the container. This is the same property you use to change the flow order to column, so if you were working in columns you would add both values grid-auto-flow: column dense.
+Having done this, grid will now backfill the gaps, as it moves through the grid it leaves gaps as before, but then if it finds an item that will fit in a previous gap it will pick it up and take it out of DOM order to place it in the gap. As with any other reordering in grid this does not change the logical order. Tab order for example, will still follow the document order. We will take a look at the potential accessibility issues of grid layout in the Grid layout and accessibility guide, but you should take care when creating this disconnect between the visual order and display order.*/
+.myImage{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 1vw;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+    z-index: 11;
+}
+
+.myImage:hover{
+    width: 104%;
+    height: 104%;
+    transform: rotate(-1deg) skewX(-1deg);
+    box-shadow: -5px 3px 5px rgb(0, 0, 0);
+    z-index: 12;
+
+}
+
+.single{
+    grid-row: span 1;
+    grid-column: span 1;
+}
+
+.double-width{
+    grid-row: span 1;
+    grid-column: span 2;
+}
+.double-height{
+    grid-row: span 2;
+    grid-column: span 1;
+}
+
+.double{
+    grid-row: span 2;
+    grid-column: span 2;
+}
+
+
+
+
+/*---------------------------------------------------*/
+/*sidebar*/
+
+.sidebar{
+    width: 10%;
+    color: red;
+    background-color: bisque;
+    position: sticky;
+    top: 0;
+    justify-content: flex-start;
+    padding-top: 5vh;
+    float: left;
+    z-index: 20;   
+}
+
+.category{
+    width: 85%;
+    height: 6vh;
+    padding: 8%;
+    margin-bottom: 1vw;
+    color: green;
+    background-color: black;
+    transition: 0.3s;
+    z-index: 2;
+    border-top-right-radius: 0.5vw;
+    border-bottom-right-radius: 0.5vw;
+
+    border: none;
+
+}
+.category:hover{
+    width: 120%;
+    z-index: 2;
+}
+
+
+/*---------------------------------------------------*/
+/*footer*/
+
+.footer {
+    background-color: #2c3e50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    bottom: 0;
+    width: 100%;
+    height: 20vw;
+    font-family: Arial, sans-serif;
+}
+
+.footer p {
+    margin: 0;
+    padding-bottom: 10px;
+    font-size: 14px;
+}

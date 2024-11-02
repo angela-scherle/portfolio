@@ -1,0 +1,518 @@
+[
+
+    {
+        "title": "Bayern 3 Partyschiff Newsletter",
+        "type": "image",
+        "width": "single",
+        "height": "single",
+        "path": "/content/images/B3-Partyschiff_Newsletter.png",
+        "category": "other",
+        "description": "empty description",
+        "selectable": true
+    },
+    {
+        "title": "Hase",
+        "type": "image",
+        "width": "single",
+        "height": "single",
+        "path": "/content/images/gifs/scribble_rabbit.gif",
+        "category": "animation",
+        "description": "empty description",
+        "selectable": false
+    },
+    {
+        "title": "Bayern 3 Partyschiff Rollup",
+        "type": "image",
+        "width": "single",
+        "height": "single",
+        "path": "/content/images/B3-Partyschiff_Rollup_Komm-an-Board.png",
+        "category": "lfp",
+        "description": "empty description",
+        "selectable": true
+    },
+    {
+        "title": "Kinderarzt Pocking Adipositas Flyer",
+        "type": "image",
+        "width": "single",
+        "height": "single",
+        "path": "/content/images/Kinderarzt_Pocking_Flyer_Adipositas.jpg",
+        "category": "print",
+        "description": "empty description",
+        "selectable": true
+    },
+    {
+        "title": "Kontron COM-HPC Präsentation",
+        "type": "image",
+        "width": "double",
+        "height": "single",
+        "path": "/content/images/Kontron_ppt_COM-HPC.jpg",
+        "category": "presentation",
+        "description": "empty description",
+        "selectable": true
+    },
+    {
+        "title": "Kontron Transportation Rollups",
+        "type": "image",
+        "width": "double",
+        "height": "single",
+        "path": "/content/images/KTR_rollups.png",
+        "category": "lfp",
+        "description": "empty description",
+        "selectable": true
+    },
+    {
+        "title": "Produktvideo COMe-mRP10",
+        "type": "video",
+        "width": "double",
+        "height": "single",
+        "path": "https://www.youtube.com/embed/MvLhgYpPgBQ?si=wljCb7K4aZrV6lPG",
+        "category": "video",
+        "description": "empty description",
+        "selectable": true
+    },
+    {
+        "title": "NutriUnited Unternehmenspräsentation",
+        "type": "image",
+        "width": "single",
+        "height": "double",
+        "path": "/content/images/NutriUnited_Präsentation.jpg",
+        "category": "presentation",
+        "description": "empty description",
+        "selectable": true
+    },
+    {
+        "title": "Boxed Heart",
+        "type": "image",
+        "width": "single",
+        "height": "single",
+        "path": "/content/images/gifs/scribble_cube_heart.gif",
+        "category": "animation",
+        "description": "empty description",
+        "selectable": false
+    },
+    {
+        "title": "Bachelorarbeit Layout",
+        "type": "image",
+        "width": "single",
+        "height": "single",
+        "path": "/content/images/RWU_Bachelorarbeit.jpg",
+        "category": "print",
+        "description": "empty description",
+        "selectable": true
+    },
+    {
+        "title": "Zeichnungen fürn Wolferstetter Keller",
+        "type": "image",
+        "width": "single",
+        "height": "double",
+        "path": "/content/images/Wolferstetter Keller Zeichnungen_1920x1280.png",
+        "category": "drawing",
+        "description": "empty description",
+        "selectable": true
+    },
+    {
+        "title": "Maus",
+        "type": "image",
+        "width": "single",
+        "height": "single",
+        "path": "/content/images/gifs/scribble_mouse.gif",
+        "category": "animation",
+        "description": "empty description",
+        "selectable": false
+    },
+    {
+        "title": "Bauzaunbanner Event-Werbung",
+        "type": "image",
+        "width": "double",
+        "height": "single",
+        "path": "/content/images/Wolferstetter-Keller_Fencebanner_Events23.jpg",
+        "category": "lfp",
+        "description": "empty description",
+        "selectable": true
+    },
+    {
+        "title": "Flyer Event-Werbung",
+        "type": "image",
+        "width": "single",
+        "height": "single",
+        "path": "/content/images/Wolferstetter-Keller_Flyer_Event-Location.jpg",
+        "category": "print",
+        "description": "empty description",
+        "selectable": true
+    },
+    {
+        "title": "Rollups Event-Werbung",
+        "type": "image",
+        "width": "single",
+        "height": "single",
+        "path": "/content/images/Wolferstetter-Keller_Rollup_Events23.jpg",
+        "category": "lfp",
+        "description": "empty description",
+        "selectable": true
+    },
+    {
+        "title": "Wolferstetter Keller Social Media",
+        "type": "image",
+        "width": "double",
+        "height": "single",
+        "path": "/content/images/Wolferstetter-Keller_Social-Media.jpg",
+        "category": "sm",
+        "description": "empty description",
+        "selectable": true
+    },
+    {
+        "title": "Kuh",
+        "type": "image",
+        "width": "single",
+        "height": "single",
+        "path": "/content/images/gifs/scribble_cow.gif",
+        "category": "animation",
+        "description": "empty description",
+        "selectable": false
+    },
+    {
+        "title": "Frühlingsfest Broschüre",
+        "type": "image",
+        "width": "single",
+        "height": "single",
+        "path": "/content/images/ZEB_Brochrure_Frühlingsfest.png",
+        "category": "print",
+        "description": "empty description",
+        "selectable": true
+    },
+    {
+        "title": "Bike Zehentmeier Firmenrad Flyer",
+        "type": "image",
+        "width": "single",
+        "height": "single",
+        "path": "/content/images/ZEB_Flyer_Firmenrad.jpg",
+        "category": "print",
+        "description": "empty description",
+        "selectable": true
+    },
+    {
+        "title": "Bike Zehentmeier Firmenflyer",
+        "type": "image",
+        "width": "single",
+        "height": "single",
+        "path": "/content/images/ZEB_Flyer_Firmenflyer.jpg",
+        "category": "print",
+        "description": "empty description",
+        "selectable": true
+    },
+    {
+        "title": "Handout Bike Zehentmeier Teamgründung",
+        "type": "image",
+        "width": "single",
+        "height": "double",
+        "path": "/content/images/ZEB_Handout_Teamgründung.png",
+        "category": "print",
+        "description": "empty description",
+        "selectable": true
+    },
+    {
+        "title": "Gestaltung Team Trikot",
+        "type": "image",
+        "width": "single",
+        "height": "single",
+        "path": "/content/images/ZEB_team-trikots.png",
+        "category": "other",
+        "description": "empty description",
+        "selectable": true
+    },
+    {
+        "title": "BAFU Unternehmenspräsentation",
+        "type": "image",
+        "width": "double",
+        "height": "single",
+        "path": "/content/images/presentations/BAFU_ppt_Unternehmenspräsentation.jpg",
+        "category": "presentation",
+        "description": "empty description",
+        "selectable": true
+    },
+    {
+        "title": "Biene",
+        "type": "image",
+        "width": "single",
+        "height": "single",
+        "path": "/content/images/gifs/scribble_bee.gif",
+        "category": "animation",
+        "description": "empty description",
+        "selectable": false
+    },
+    {
+        "title": "Schmetterling",
+        "type": "image",
+        "width": "single",
+        "height": "single",
+        "path": "/content/images/gifs/scribble_butterfly.gif",
+        "category": "animation",
+        "description": "empty description",
+        "selectable": false
+    },
+    {
+        "title": "Chamäleon",
+        "type": "image",
+        "width": "single",
+        "height": "single",
+        "path": "/content/images/gifs/scribble_cameleon.gif",
+        "category": "animation",
+        "description": "empty description",
+        "selectable": false
+    },
+    {
+        "title": "Schachfigur Pferd",
+        "type": "image",
+        "width": "single",
+        "height": "single",
+        "path": "/content/images/gifs/scribble_chess_knight.gif",
+        "category": "animation",
+        "description": "empty description",
+        "selectable": false
+    },
+
+    {
+        "title": "Würfel",
+        "type": "image",
+        "width": "single",
+        "height": "single",
+        "path": "/content/images/gifs/scribble_dice.gif",
+        "category": "animation",
+        "description": "empty description",
+        "selectable": false
+    },
+    {
+        "title": "Donut",
+        "type": "image",
+        "width": "single",
+        "height": "single",
+        "path": "/content/images/gifs/scribble_donut.gif",
+        "category": "animation",
+        "description": "empty description",
+        "selectable": false
+    },
+    {
+        "title": "Libelle",
+        "type": "image",
+        "width": "single",
+        "height": "single",
+        "path": "/content/images/gifs/scribble_dragonfly.gif",
+        "category": "animation",
+        "description": "empty description",
+        "selectable": false
+    },
+    {
+        "title": "Blumengeschenk",
+        "type": "image",
+        "width": "single",
+        "height": "single",
+        "path": "/content/images/gifs/scribble_hands.gif",
+        "category": "animation",
+        "description": "empty description",
+        "selectable": false
+    },
+    {
+        "title": "BMY Logo Animation",
+        "type": "image",
+        "width": "double",
+        "height": "single",
+        "path": "/content/images/gifs/bmy_2D Logo_animated_Loop_white.gif",
+        "category": "animation",
+        "description": "empty description",
+        "selectable": true
+    },
+    {
+        "title": "bmy 3D Logo Animation",
+        "type": "video",
+        "width": "double",
+        "height": "single",
+        "path": "https://www.youtube.com/embed/jYPuApwXdNs?si=RGG1Zt6cFOpn18uy",
+        "category": "video",
+        "description": "empty description",
+        "selectable": true
+    },
+    {
+        "title": "Kontron / SMARC-sXEL-E2",
+        "type": "video",
+        "width": "double",
+        "height": "single",
+        "path": "https://www.youtube.com/embed/a_DANoE7Ykk?si=j_MXMX-eX7wOgidj",
+        "category": "video",
+        "description": "empty description",
+        "selectable": true
+    },
+    {
+        "title": "Kontron / K3921-N mSTX + Smartcase S501",
+        "type": "video",
+        "width": "double",
+        "height": "single",
+        "path": "https://www.youtube.com/embed/m2b5RBw3uWQ?si=A5NPxrFaWoODj7k1",
+        "category": "video",
+        "description": "empty description",
+        "selectable": true
+    },
+    {
+        "title": "Kontron / Motherboards",
+        "type": "video",
+        "width": "double",
+        "height": "single",
+        "path": "https://www.youtube.com/embed/WXrnL6dZP0E?si=uNZFg5ABfiRW7HCo",
+        "category": "video",
+        "description": "empty description",
+        "selectable": true
+    },
+    {
+        "title": "Kontron / Mobile Solutions Messevideo",
+        "type": "video",
+        "width": "double",
+        "height": "single",
+        "path": "https://www.youtube.com/embed/r3qTcZFiffU?si=8B2S5qAN8F3WOM_O",
+        "category": "video",
+        "description": "empty description",
+        "selectable": true
+    },
+    {
+        "title": "MicroSys / Messestand Rendering",
+        "type": "video",
+        "width": "double",
+        "height": "single",
+        "path": "https://www.youtube.com/embed/Faugou1IgfM?si=JqKyNAi44-C64EnB",
+        "category": "video",
+        "description": "empty description",
+        "selectable": true
+    },
+    {
+        "title": "Klinik Rosenstadt Logo",
+        "type": "image",
+        "width": "single",
+        "height": "single",
+        "path": "/content/images/logos/klinik-rosenstadt_logo.jpg",
+        "category": "print",
+        "description": "empty description",
+        "selectable": true
+    },
+    {
+        "title": "Weltkarte",
+        "type": "image",
+        "width": "single",
+        "height": "double",
+        "path": "/content/images/clothing/Map_Blanket.jpg",
+        "category": "print",
+        "description": "empty description",
+        "selectable": true
+    },
+
+    {
+        "title": "Cowboy & Witch Logo",
+        "type": "image",
+        "width": "single",
+        "height": "single",
+        "path": "/content/images/logos/Cowboy&Witch_Logo.jpg",
+        "category": "print",
+        "description": "empty description",
+        "selectable": true
+    },
+    {
+        "title": "Hidden Hope / Logo",
+        "type": "image",
+        "width": "double",
+        "height": "single",
+        "path": "/content/images/logos/Hidden-Hope_Logo.jpg",
+        "category": "logo",
+        "description": "empty description",
+        "selectable": true
+    },
+    {
+        "title": "Hidden Hope / Traumfänger",
+        "type": "image",
+        "width": "single",
+        "height": "single",
+        "path": "/content/images/logos/Hidden-Hope_Graphic.jpg",
+        "category": "other",
+        "description": "empty description",
+        "selectable": true
+    },
+    {
+        "title": "Rabe-Panther Ritterwappen",
+        "type": "image",
+        "width": "single",
+        "height": "single",
+        "path": "/content/images/logos/Raven-Panther_logo.jpg",
+        "category": "logo",
+        "description": "empty description",
+        "selectable": true
+    },
+    {
+        "title": "King of Berries Logo",
+        "type": "image",
+        "width": "single",
+        "height": "single",
+        "path": "/content/images/logos/King-of-Berries_Logo.jpg",
+        "category": "logo",
+        "description": "empty description",
+        "selectable": true
+    },
+    {
+        "title": "Green Owl",
+        "type": "image",
+        "width": "single",
+        "height": "single",
+        "path": "/content/images/clothing/Anschi_Green-Creature_Shirt_Mockup.jpg",
+        "category": "clothing",
+        "description": "empty description",
+        "selectable": true
+    },
+    {
+        "title": "Bunte Decke",
+        "type": "image",
+        "width": "single",
+        "height": "single",
+        "path": "/content/images/clothing/Anschi_Panther_Decke.jpg",
+        "category": "clothing",
+        "description": "empty description",
+        "selectable": true
+    },
+    {
+        "title": "Persönliches Logo",
+        "type": "image",
+        "width": "single",
+        "height": "single",
+        "path": "/content/images/logos/Anschi_Angela-Scherle_Logo.jpg",
+        "category": "clothing",
+        "description": "empty description",
+        "selectable": true
+    },
+    {
+        "title": "Red Riding Hood / Cover",
+        "type": "image",
+        "width": "single",
+        "height": "single",
+        "path": "/content/images/drawings/Red-Riding-Hood_Cover.jpg",
+        "category": "drawing",
+        "description": "empty description",
+        "selectable": true
+    },
+    {
+        "title": "Red Riding Hood / Forest",
+        "type": "image",
+        "width": "single",
+        "height": "single",
+        "path": "/content/images/drawings/Red-Riding-Hood_v1.jpg",
+        "category": "drawing",
+        "description": "empty description",
+        "selectable": true
+    },
+    {
+        "title": "Red Riding Hood / Ground",
+        "type": "image",
+        "width": "single",
+        "height": "single",
+        "path": "/content/images/drawings/Red-Riding-Hood_v2.jpg",
+        "category": "drawing",
+        "description": "empty description",
+        "selectable": true
+    }
+
+
+
+]
