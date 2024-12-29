@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="5.2916665mm"
+   height="5.291667mm"
+   viewBox="0 0 5.2916665 5.291667"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="swatch63"
+       gradientTransform="matrix(0.42258167,0,0,0.42258167,57.562115,11.696138)">
+      <stop
+         style="stop-color:#38da8d;stop-opacity:1;"
+         offset="0"
+         id="stop63" />
+    </linearGradient>
+    <linearGradient
+       id="swatch58"
+       gradientTransform="translate(121.69724)">
+      <stop
+         style="stop-color:#056279;stop-opacity:1;"
+         offset="0"
+         id="stop58" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#swatch63"
+       id="linearGradient95"
+       gradientUnits="userSpaceOnUse"
+       x1="32.279163"
+       y1="25.254845"
+       x2="33.337498"
+       y2="25.254845" />
+    <linearGradient
+       xlink:href="#swatch58"
+       id="linearGradient96"
+       gradientUnits="userSpaceOnUse"
+       x1="31.220833"
+       y1="25.26771"
+       x2="32.279167"
+       y2="25.26771"
+       gradientTransform="translate(9.3613252)" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-38.465489,-22.489584)">
+    <path
+       id="path73"
+       style="fill:url(#linearGradient96);fill-opacity:1;stroke-width:0.136044;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       d="m 40.582157,23.8125 1.058334,0.264585 v 2.645834 l -1.058334,-0.264585 z" />
+    <path
+       id="path74"
+       style="fill:url(#linearGradient95);fill-opacity:1;stroke-width:0.136044;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       d="m 32.279165,26.458335 0.944467,0.236116 a 0.09164099,0.09164099 142.01811 0 0 0.113867,-0.08891 v -2.443658 a 0.10861453,0.10861453 52.018109 0 0 -0.08227,-0.105372 l -0.976062,-0.244015 z"
+       transform="matrix(1,0,0,-1,9.3613252,50.535419)" />
+    <path
+       id="path75"
+       style="fill:url(#swatch63);fill-opacity:1;stroke-width:0.136044;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       d="m 30.258734,26.482393 0.962098,0.240526 v -2.645834 l -0.937079,-0.234271 a 0.09758593,0.09758593 142.01817 0 0 -0.121254,0.09467 v 2.421651 a 0.12704955,0.12704955 52.018166 0 0 0.09624,0.123256 z"
+       transform="matrix(1,0,0,-1,9.3613252,50.535419)" />
+    <path
+       id="path76"
+       style="fill:url(#swatch58);fill-opacity:1;stroke:none;stroke-width:1.22851;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       d="m 41.111324,22.489584 a 2.6458335,2.6458335 0 0 0 -2.645833,2.645833 2.6458335,2.6458335 0 0 0 2.645833,2.645834 2.6458335,2.6458335 0 0 0 2.645833,-2.645834 2.6458335,2.6458335 0 0 0 -2.645833,-2.645833 z m 0,0.264583 a 2.3812497,2.3812497 0 0 1 2.38125,2.38125 2.3812497,2.3812497 0 0 1 -2.38125,2.38125 2.3812497,2.3812497 0 0 1 -2.38125,-2.38125 2.3812497,2.3812497 0 0 1 2.38125,-2.38125 z" />
+  </g>
+</svg>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="5.2916665mm"
+   height="5.2916646mm"
+   viewBox="0 0 5.2916665 5.2916646"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="swatch63"
+       gradientTransform="matrix(0.42258167,0,0,0.42258167,57.562115,11.696138)">
+      <stop
+         style="stop-color:#38da8d;stop-opacity:1;"
+         offset="0"
+         id="stop63" />
+    </linearGradient>
+    <linearGradient
+       id="swatch58"
+       gradientTransform="translate(121.69724)">
+      <stop
+         style="stop-color:#056279;stop-opacity:1;"
+         offset="0"
+         id="stop58" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#swatch58"
+       id="linearGradient97"
+       gradientUnits="userSpaceOnUse"
+       x1="16.854565"
+       y1="18.490444"
+       x2="20.194464"
+       y2="18.490444" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-38.465489,-29.10417)">
+    <path
+       id="path65"
+       style="fill:url(#linearGradient97);stroke-width:0.208893;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       d="m 17.11958,17.425391 c 0.984863,-0.186365 1.924186,-0.205735 2.804253,-0.0078 0.102317,0.02301 0.201524,0.12828 0.217306,0.231962 0.08874,0.582954 0.05374,1.162428 -0.01083,1.74107 -0.01163,0.104194 -0.105523,0.204439 -0.209117,0.220823 -0.939316,0.148567 -1.87047,0.09714 -2.799356,-0.0098 -0.104152,-0.012 -0.194767,-0.107227 -0.203337,-0.211761 -0.04713,-0.574891 -0.107101,-1.148126 -0.01818,-1.740573 0.01555,-0.103585 0.116209,-0.204371 0.219264,-0.223872 z"
+       transform="matrix(1.0022208,0,0,1.0022208,22.577868,13.181419)" />
+    <path
+       id="path68"
+       style="fill:url(#swatch58);fill-opacity:1;stroke:none;stroke-width:1.22851;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       d="m 41.111324,29.104168 a 2.6458335,2.6458335 0 0 0 -2.645833,2.645833 2.6458335,2.6458335 0 0 0 2.645833,2.645834 2.6458335,2.6458335 0 0 0 2.645833,-2.645834 2.6458335,2.6458335 0 0 0 -2.645833,-2.645833 z m 0,0.264583 a 2.3812497,2.3812497 0 0 1 2.38125,2.38125 2.3812497,2.3812497 0 0 1 -2.38125,2.38125 2.3812497,2.3812497 0 0 1 -2.38125,-2.38125 2.3812497,2.3812497 0 0 1 2.38125,-2.38125 z" />
+    <path
+       id="path71"
+       transform="matrix(0.42258167,0,0,0.42258167,33.64327,24.205228)"
+       d="m 19.314625,18.006761 -1.058357,0.611043 -1.587537,0.916564 a 0.17639292,0.17639292 30 0 1 -0.264589,-0.15276 v -1.222086 -1.83313 a 0.17639292,0.17639292 150 0 1 0.264589,-0.15276 l 1.058358,0.611043 1.587536,0.916564 a 0.17639292,0.17639292 90 0 1 0,0.305522 z"
+       style="fill:url(#swatch63);fill-opacity:1;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers fill stroke" />
+  </g>
+</svg>
