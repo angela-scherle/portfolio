@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="5.2916665mm"
+   height="5.2916627mm"
+   viewBox="0 0 5.2916665 5.2916627"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs1"><linearGradient
+       id="swatch63"
+       gradientTransform="matrix(0.15511075,0,0,0.15511075,13.431595,71.360855)"><stop
+         style="stop-color:#38da8d;stop-opacity:1;"
+         offset="0"
+         id="stop63" /></linearGradient><linearGradient
+       id="swatch58"
+       gradientTransform="translate(64.242476,44.417268)"><stop
+         style="stop-color:#056279;stop-opacity:1;"
+         offset="0"
+         id="stop58" /></linearGradient></defs><g
+     id="layer1"
+     transform="translate(-38.465489,-62.745498)"><path
+       id="path41"
+       style="fill:url(#swatch58);fill-opacity:1;stroke:none;stroke-width:1.22851;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+       d="m 41.111324,62.745495 a 2.6458335,2.6458335 0 0 0 -2.645834,2.645833 2.6458335,2.6458335 0 0 0 2.645834,2.645834 2.6458335,2.6458335 0 0 0 2.645833,-2.645834 2.6458335,2.6458335 0 0 0 -2.645833,-2.645833 z m 0,0.264583 a 2.3812497,2.3812497 0 0 1 2.38125,2.38125 2.3812497,2.3812497 0 0 1 -2.38125,2.38125 2.3812497,2.3812497 0 0 1 -2.38125,-2.38125 2.3812497,2.3812497 0 0 1 2.38125,-2.38125 z" /><g
+       id="g53"
+       transform="matrix(1.1461401,0,0,1.1461401,-6.1946361,-9.5855025)"><path
+         style="fill:#38da8d;fill-opacity:1;stroke-width:0.0524638"
+         d="m 42.252629,66.423086 c 0,-0.557957 -0.344706,-0.979847 -1.223619,-0.979847 l 10e-7,-0.679668 c 0.990943,0 1.562976,0.548869 1.562976,1.465192 0,0.479299 -0.339358,0.404841 -0.339358,0.194323 z"
+         id="path46" /><path
+         id="path50"
+         style="fill:#38da8d;stroke:#ffffff;stroke-width:0;stroke-linecap:round"
+         transform="matrix(0.64545259,0,0,0.64545259,9.6584504,21.607782)"
+         d="m 48.427222,68.68424 -1.464347,-1.071695 a 0.27455004,0.27455004 90.000009 0 1 0,-0.443108 l 1.464347,-1.071694 a 0.19032499,0.19032499 26.900597 0 1 0.302729,0.153587 l 0,2.279323 a 0.19032491,0.19032491 153.09941 0 1 -0.302729,0.153587 z" /></g></g></svg>
